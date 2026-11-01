@@ -15,3 +15,5 @@ Tampilan detail: assets/detail.css. Tampilan katalog: assets/style.css.
 Catatan: produk berstatus rencana belum tersedia untuk digunakan atau dibeli.
 Glow Aesthetic Clinic masih dalam persiapan; rincian fitur perlu diverifikasi sebelum dipublikasikan.
 Website statis ini belum memiliki database, login admin, checkout, atau pembayaran.
+
+Auto deployment: GitHub connected to Cloudflare Workers.
